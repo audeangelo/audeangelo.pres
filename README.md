@@ -1,4 +1,4 @@
-# audeangelo.pres
+# audeangelo.pres  
 # Hello World, I'm Aude
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -49,7 +49,6 @@
 
 ### Package Manager ⬇️
 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 
 ### Cloud & Network ☁️
@@ -86,4 +85,4 @@
 ---
 
 
-# audeangelo.pres
+
