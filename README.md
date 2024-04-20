@@ -79,6 +79,7 @@
 ![GoogleAnalytics](https://img.shields.io/badge/Google%20Analytics-E37400?&logo=google%20analytics&logoColor=white)
 
 
+[![](https://visitcount.itsvg.in/api?id=audeangelo&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <br/>
 
